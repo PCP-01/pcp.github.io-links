@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "pcp.Ordor.com.yourcompany.yourapp",
+        "appID": "pcp.Ordor",
         "paths": [ "/content/*" ]
       }
     ]
